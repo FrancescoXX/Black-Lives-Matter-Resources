@@ -11,3 +11,4 @@ A List of resources about the recent events in America
 | https://www.youtube.com/watch?v=CNoezw1sxrw | Police Officer kneels with protestors |  https://twitter.com/FrancescoCiull4 |
 | https://www.youtube.com/watch?v=y3pwFnKpPCI | BBC News 30 May 2020 |  https://twitter.com/FrancescoCiull4 |
 | https://revolutiontips.github.io/ | Resources for Protestors |
+| https://everestpipkin.github.io/image-scrubber/ | A tool for anonymizing photographs taken at protests |
